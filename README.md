@@ -6,6 +6,13 @@ This project analyzes biodiversity data from national parks in the United States
 
 The data used in this project comes from the National Parks Service and includes information on species observed in various national parks.
 
+## Process
+1. Data Collection
+2. Data Cleaning
+3. EDA
+4. Analysis & findings
+5. Conclusion
+
 ## Analysis
 
 The analysis includes an exploration of the data to understand the distribution of species across different parks and taxonomic groups. It also includes statistical tests to identify any significant differences in biodiversity between parks.
